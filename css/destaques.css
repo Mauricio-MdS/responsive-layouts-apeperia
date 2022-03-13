@@ -1,0 +1,29 @@
+.destaques{
+    background-color: var(--azul-claro);
+    padding-bottom: 2.125rem;
+}
+
+.destaques__titulo{
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 2.3rem;
+}
+
+.destaques__figura{
+    width: 100%;
+    max-width: 564px;
+}
+
+.destaques__imagem{
+    width: 100%;
+}
+
+.destaques__caption{
+    font-size: 1.2rem;
+    margin: 0 1.4rem 2.1rem;
+}
+
+.destaques__botao{
+    border: solid 1px var(--vermelho-forte);
+    color: var(--vermelho-forte);
+}
