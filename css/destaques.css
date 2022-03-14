@@ -21,6 +21,7 @@
 .destaques__caption{
     font-size: 1.2rem;
     margin: 0 1.4rem 2.1rem;
+    line-height: 1.35;
 }
 
 .destaques__botao{
