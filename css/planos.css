@@ -69,15 +69,13 @@
 .cartao__botao {
     font-size: 1.2rem;
     font-weight: 700;
-
-    width: 100%;
-
     align-self: center;
 
     padding: .75rem 2rem;
 
     margin-top: 1rem;
     margin-bottom: 1rem;
+    width: 70%;
 }
 
 .cartao--start {
