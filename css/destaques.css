@@ -12,6 +12,7 @@
 .destaques__figura{
     width: 100%;
     max-width: 564px;
+    margin: auto;
 }
 
 .destaques__imagem{
@@ -20,7 +21,7 @@
 
 .destaques__caption{
     font-size: 1.2rem;
-    margin: 0 1.4rem 2.1rem;
+    margin: 0 1rem 1rem;
     line-height: 1.35;
 }
 
