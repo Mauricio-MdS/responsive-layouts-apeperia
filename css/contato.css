@@ -1,0 +1,21 @@
+.contato{
+    background-color: var(--bg-diferenciais);
+    padding-bottom: 2rem;
+}
+
+.contato__titulo{
+    font-size: 1.5rem;
+    color: var(--cinza-escuro);
+    text-align: center;
+    padding-top: 1.8rem;
+}
+
+.contato__texto{
+    text-align: center;
+    padding: 1.25rem;
+}
+
+.contato__botao{
+    color: var(--cinza-escuro);
+    border: solid 1px var(--cinza-escuro);
+}
