@@ -1,0 +1,33 @@
+.rodape{
+    background-color: var(--bg-rodape);
+    color: var(--branco);
+    padding: 2.625rem 0;
+}
+
+.rodape__logo{
+    display: block;
+    margin: auto;
+    padding-bottom: 1.5rem;
+}
+
+.rodape__redes{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+
+.rodape__navbar{
+    text-align: center;
+}
+
+.rodape__links{
+
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+}
+
