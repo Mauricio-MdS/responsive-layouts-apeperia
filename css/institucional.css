@@ -38,4 +38,6 @@
     padding-top: 0.625rem;
     width: 100%;
     max-width: 676px;
+    display: block;
+    margin: auto;
 }

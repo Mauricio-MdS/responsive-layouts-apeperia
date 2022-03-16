@@ -13,7 +13,8 @@
 .rodape__redes{
     padding: 2rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 2rem;
     width: 50%;
     margin: auto;
 }
