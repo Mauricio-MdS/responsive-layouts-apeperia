@@ -41,3 +41,24 @@
     display: block;
     margin: auto;
 }
+
+@media (min-width: 1024px){
+
+    .institucional__conteudo{
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 2.625rem 0;
+        align-items: flex-start;
+    }
+
+    .institucional__texto, .institucional__endereco, .institucional__telefone{
+        text-align: start;
+        padding: 0 0 4rem;
+    }
+
+    .institucional__video{
+        max-width: 375px;
+        margin: 0;
+    }
+
+}

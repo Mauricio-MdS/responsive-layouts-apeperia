@@ -32,3 +32,26 @@
     margin-left: .7rem;
 }
 
+@media (min-width: 1024px){
+
+    .rodape__container{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .rodape__logo{
+        margin: 0 0 0 2.625rem;
+    }
+
+    .rodape__redes{
+        width:min-content;
+        margin: 0 2.625rem 0 0;
+    }
+
+    .rodape__navbar{
+        text-align: start;
+        margin-left: 2.625rem;
+    }
+
+}
