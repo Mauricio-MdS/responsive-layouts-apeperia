@@ -23,3 +23,37 @@
     justify-content: space-around;
     margin: 0 3.4rem 1rem;
 }
+
+.sobre__imagem{
+    display: none;
+}
+
+@media (min-width:1024px){
+    .sobre{
+        display: flex;
+    }
+
+    .sobre__container{
+        padding-left: 2.625rem;
+    }
+
+    .sobre__titulo{
+        margin-top: 2.5rem;
+        text-align: start;
+    }
+
+    .sobre__texto{
+        padding: 0 0 1rem 0;
+    }
+
+    .sobre__plataformas{
+        border-top: 1px solid var(--cinza-medio);
+        padding: 1rem;
+        justify-content: center;
+        gap: 75px;
+    }
+
+    .sobre__imagem{
+        display: block;
+    }
+}

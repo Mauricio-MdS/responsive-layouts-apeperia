@@ -23,3 +23,21 @@
 
     margin: 0 1.5rem 2.5rem;
 }
+
+@media (min-width: 1024px) {
+    .chamada{
+        background-image: url("../img/bg-intro.jpg");
+        background-size: cover;
+        padding-top: 8rem;
+    }
+
+    .chamada__titulo{
+        font-size: 3.25rem;
+
+    }
+
+    .chamada__texto{
+        width: 50%;
+    }    
+    
+}
